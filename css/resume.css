@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40; }
@@ -34,20 +34,20 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.35rem; }
 
 .list-social-icons a {
   color: #495057; }
   .list-social-icons a:hover {
-    color: #BD5D38; }
+    color: #3d85d6; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #BD5D38; }
+    color: #3d85d6; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -104,12 +104,12 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #BD5D38 !important; }
+  background-color: #3d85d6 !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: #3d85d6 !important; }
 
 a {
-  color: #BD5D38; }
+  color: #3d85d6; }
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color: #3d85d6; }
